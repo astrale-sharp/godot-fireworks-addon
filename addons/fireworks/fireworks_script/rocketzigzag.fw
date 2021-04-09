@@ -1,0 +1,21 @@
+# rocket zig zag
+rocket 0.2
+wait 300
+rocket 0.4
+wait 300
+rocket 0.6
+wait 300
+rocket 0.8
+wait 300
+rocket 0.6
+wait 300
+rocket 0.4
+wait 300
+rocket 0.2
+wait 300
+rocket 0.4
+wait 300
+rocket 0.6
+wait 300
+rocket 0.8
+wait 3000

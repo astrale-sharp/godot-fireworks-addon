@@ -1,0 +1,7 @@
+wait 1000
+
+fountain
+
+fountain 0.2 color:1 size:1.0
+fountain 0.8 color:1 size:1.0
+wait 1000

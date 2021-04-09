@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/firework_shower.wav-43b8b515fded1c469af2581e14e2512d.sample"
+
+[deps]
+
+source_file="res://addons/fireworks/sfx/firework_shower.wav"
+dest_files=[ "res://.import/firework_shower.wav-43b8b515fded1c469af2581e14e2512d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=false
+edit/loop=false
+compress/mode=0
